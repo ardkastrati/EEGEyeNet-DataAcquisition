@@ -1,0 +1,194 @@
+# Created by Octave 3.2.4, Wed Sep 11 16:03:29 2013 Eastern Daylight Time <unknown@unknown>
+# name: par
+# type: struct
+# length: 23
+# name: runID
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+BOB
+
+# name: recordEEG
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar
+1
+
+# name: UPorDOWN
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar
+2
+
+# name: BGcolor
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar
+192
+
+# name: videoFrate
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar
+100
+
+# name: FlickF
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar
+25
+
+# name: numtargets
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar
+6
+
+# name: secs_btw_targs
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: matrix
+# rows: 1
+# columns: 3
+ 4 4 4
+
+# name: spatfreq
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar
+1
+
+# name: outerrad_deg
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar
+8
+
+# name: innerrad_deg
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar
+3
+
+# name: targrampdur
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar
+1.2
+
+# name: BLcontrast
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar
+0.7
+
+# name: targChange
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar
+0.3
+
+# name: useEL
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar
+0
+
+# name: eyeFBK
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar
+0
+
+# name: leadintime
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar
+1000
+
+# name: CD_RESP
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar
+1
+
+# name: CD_FIXON
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar
+4
+
+# name: CD_TGOFF
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar
+5
+
+# name: CD_TG
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar
+8
+
+# name: CD_BUTTONS
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: matrix
+# rows: 1
+# columns: 2
+ 12 13
+
+# name: CD_BEEP
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar
+1
+
